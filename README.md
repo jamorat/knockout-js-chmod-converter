@@ -5,3 +5,7 @@ In Unix-like operating systems, chmod is the command and system call which may c
 Why
 ----------
 There are quite a few examples of this sort of script on the web, although I have not come across any that use data binding.
+
+What's Next
+------------
+Next up would be adding the ability to do reverse calculations where instead of clicking checkboxes to get output, a user could enter in octal notation numbers to see what permissions are being indicated. Beyond that it would be my hope to broaden the code base to include a configurator which allows users to set up arbitrary column names and values.
