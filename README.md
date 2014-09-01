@@ -4,7 +4,7 @@ In Unix-like operating systems, chmod is the command and system call which may c
 
 Why
 ----------
-There are quite a few examples of this sort of script on the web, although I have not come across any that use data binding.
+There are quite a few examples of this sort of script on the web, although I have not come across any chmod converter scripts that use data binding.
 
 What's Next
 ------------
